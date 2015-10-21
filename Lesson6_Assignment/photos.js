@@ -1,7 +1,7 @@
 /*    
     Program Name:  Photo Gallery Application
     Author: Cassidy Fishman 
-    Date:   October 18th, 2015
+    Date:   October 21st, 2015
     Filename: photos.js
  */
 
@@ -114,7 +114,6 @@ var showAllButton = document.querySelector("#fiveButton p");
 function zoomFig() {
    var zoomWindow = window.open("zoom.htm", "zoomwin", "width=960,height=600");
 }
-
 
 
 /* create event listeners and populate image elements */
